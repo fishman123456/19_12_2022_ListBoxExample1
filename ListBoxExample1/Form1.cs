@@ -136,7 +136,7 @@ namespace ListBoxExample1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            numericUpDown1.Show();
+            numericUpDown1.Update();
         }
     }
 }
