@@ -72,11 +72,13 @@ namespace ListBoxExample1
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
-
+            numericUpDown1.Value = trackBar1.Value;
+           
         }
 
         private void button_Add_NumericUpDown_Click(object sender, EventArgs e)
         {
+           
             this.textBox1.Text=(numericUpDown1.Value.ToString());
         }
 
@@ -117,6 +119,24 @@ namespace ListBoxExample1
                 DateTime.Now.ToShortDateString();
                 format = DateTimeFormat.ShowClock;
             }
+        }
+
+        private void toolStripStatusLabel1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            trackBar1.Minimum= 0;
+            trackBar1.Maximum= 100;
+            // trackBar1.Value =Convert.ToInt16(numericUpDown1.Value);
+           
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            numericUpDown1.Show();
         }
     }
 }
