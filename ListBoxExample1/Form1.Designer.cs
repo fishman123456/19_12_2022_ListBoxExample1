@@ -42,7 +42,7 @@
             this.toolStripSplitButton1 = new System.Windows.Forms.ToolStripSplitButton();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
-            this.button1 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.statusStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
@@ -60,7 +60,7 @@
             // 
             // btnAddToListBox
             // 
-            this.btnAddToListBox.Location = new System.Drawing.Point(13, 183);
+            this.btnAddToListBox.Location = new System.Drawing.Point(12, 149);
             this.btnAddToListBox.Name = "btnAddToListBox";
             this.btnAddToListBox.Size = new System.Drawing.Size(120, 23);
             this.btnAddToListBox.TabIndex = 1;
@@ -70,7 +70,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(13, 145);
+            this.textBox1.Location = new System.Drawing.Point(12, 123);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(120, 20);
             this.textBox1.TabIndex = 2;
@@ -78,7 +78,7 @@
             // 
             // btnCopyFromListBox
             // 
-            this.btnCopyFromListBox.Location = new System.Drawing.Point(156, 183);
+            this.btnCopyFromListBox.Location = new System.Drawing.Point(155, 149);
             this.btnCopyFromListBox.Name = "btnCopyFromListBox";
             this.btnCopyFromListBox.Size = new System.Drawing.Size(119, 23);
             this.btnCopyFromListBox.TabIndex = 4;
@@ -96,7 +96,7 @@
             // 
             // btnRemoveSelected
             // 
-            this.btnRemoveSelected.Location = new System.Drawing.Point(12, 212);
+            this.btnRemoveSelected.Location = new System.Drawing.Point(11, 178);
             this.btnRemoveSelected.Name = "btnRemoveSelected";
             this.btnRemoveSelected.Size = new System.Drawing.Size(120, 23);
             this.btnRemoveSelected.TabIndex = 6;
@@ -106,7 +106,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(156, 145);
+            this.numericUpDown1.Location = new System.Drawing.Point(155, 123);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(120, 20);
             this.numericUpDown1.TabIndex = 7;
@@ -114,7 +114,7 @@
             // 
             // button_Add_NumericUpDown
             // 
-            this.button_Add_NumericUpDown.Location = new System.Drawing.Point(155, 212);
+            this.button_Add_NumericUpDown.Location = new System.Drawing.Point(154, 178);
             this.button_Add_NumericUpDown.Name = "button_Add_NumericUpDown";
             this.button_Add_NumericUpDown.Size = new System.Drawing.Size(120, 23);
             this.button_Add_NumericUpDown.TabIndex = 8;
@@ -165,22 +165,21 @@
             this.trackBar1.TabIndex = 10;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
-            // button1
+            // textBox2
             // 
-            this.button1.Location = new System.Drawing.Point(110, 241);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.textBox2.Location = new System.Drawing.Point(13, 250);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(262, 20);
+            this.textBox2.TabIndex = 11;
+            this.textBox2.Click += new System.EventHandler(this.trackBar1_Scroll);
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(292, 354);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.button_Add_NumericUpDown);
@@ -219,7 +218,7 @@
         private System.Windows.Forms.ToolStripSplitButton toolStripSplitButton1;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Windows.Forms.TrackBar trackBar1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 
