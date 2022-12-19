@@ -24,3 +24,12 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExam
 C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.CoreCompileInputs.cache
 C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.exe
 C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.pdb
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.exe
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.pdb
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Form1.resources
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Properties.Resources.resources
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.GenerateResource.cache
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.exe
+C:\Users\profi\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.pdb

@@ -18,6 +18,7 @@ namespace ListBoxExample1
             NumericUpDown updown = new NumericUpDown();
            
 
+
         }
 
         private void btnAddToListBox_Click(object sender, EventArgs e)
@@ -78,9 +79,9 @@ namespace ListBoxExample1
 
         private void button_Add_NumericUpDown_Click(object sender, EventArgs e)
         {
-           
-            this.textBox1.Text=(numericUpDown1.Value.ToString());
             this.textBox2.Text = (trackBar1.Value.ToString());
+           // this.textBox1.Text=(numericUpDown1.Value.ToString());
+            
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -143,6 +144,7 @@ namespace ListBoxExample1
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             //textBox2 = new TextBox();
+           
           
         }
     }
