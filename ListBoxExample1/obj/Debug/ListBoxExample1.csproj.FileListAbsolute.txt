@@ -1,0 +1,26 @@
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.exe
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.pdb
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csprojResolveAssemblyReference.cache
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Form1.resources
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Properties.Resources.resources
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.GenerateResource.Cache
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.exe
+C:\Rudenko\WinForms\Урок 2\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.pdb
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.exe
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.pdb
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Form1.resources
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Properties.Resources.resources
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.exe
+C:\Users\Fishman.DB.CORP\Downloads\Sources\ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\bin\Debug\ListBoxExample1.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Form1.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.Properties.Resources.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\19_12_2022_ListBoxExample1\ListBoxExample1\obj\Debug\ListBoxExample1.pdb
