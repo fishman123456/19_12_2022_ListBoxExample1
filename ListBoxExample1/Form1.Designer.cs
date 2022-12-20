@@ -164,6 +164,7 @@
             this.trackBar1.Size = new System.Drawing.Size(264, 45);
             this.trackBar1.TabIndex = 10;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
+            this.trackBar1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.trackBar1_MouseUp);
             // 
             // textBox2
             // 

@@ -147,5 +147,10 @@ namespace ListBoxExample1
 
 
         }
+
+        private void trackBar1_MouseUp(object sender, MouseEventArgs e)
+        {
+            textBox2.Text = (trackBar1.Value.ToString());
+        }
     }
 }
